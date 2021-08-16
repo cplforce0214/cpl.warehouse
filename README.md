@@ -1,3 +1,3 @@
 # cpl.warehouse
-There are some c++codes.
+There are some codes.
 I'm a fan of c++.
